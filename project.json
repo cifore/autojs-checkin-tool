@@ -1,0 +1,7 @@
+{
+  "name": "签到工具",
+  "packageName": "com.autojs.checkin",
+  "version": "1.0",
+  "main": "app-main.js",
+  "icon": null
+}
