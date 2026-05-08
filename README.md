@@ -12,6 +12,16 @@
 - **应用图标展示** — 自动从 iTunes API 获取应用图标并缓存到本地
 - **插件扩展** — 支持自定义插件，内置快手、今日头条签到模板
 
+## 运行截图
+
+| 任务列表 | 步骤编辑 |
+|:---:|:---:|
+| ![任务列表](docs/images/screenshot-1.jpg) | ![步骤编辑](docs/images/screenshot-2.jpg) |
+
+| 添加任务 | 执行日志 |
+|:---:|:---:|
+| ![添加任务](docs/images/screenshot-3.jpg) | ![执行日志](docs/images/screenshot-4.jpg) |
+
 ## 安装使用
 
 ### 1. 安装 AutoJS
